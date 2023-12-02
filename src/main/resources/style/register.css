@@ -1,0 +1,33 @@
+.label {
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Sans Serif";
+    -fx-text-fill: black;
+}
+
+.text-field {
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+    -fx-pref-height: 38px;
+    -fx-pref-width: 150px;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Sans Serif";
+}
+
+.text-field:hover {
+    -fx-border-color: gray;
+    -fx-border-width: 2px;
+}
+
+.button {
+    -fx-text-fill: white;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Sans Serif";
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-background-color: black;
+}

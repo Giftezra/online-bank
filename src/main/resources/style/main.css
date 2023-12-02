@@ -1,0 +1,34 @@
+.label {
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Sans Serif";
+    -fx-text-fill: purple;
+}
+
+.label:hover{
+    -fx-font-size: 20;
+}
+
+.button {
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-pref-width:200px;
+    -fx-background-color: black;
+    -fx-text-fill: white;
+}
+
+.button:hover {
+    -fx-translate-y: 10;
+    -fx-background-color:gray;
+    -fx-text-fill: brown;
+    -fx-font-size: 20;
+}
+
+#signout{
+    -fx-pref-width: 150;
+    -fx-pref-height: 35;
+    -fx-background-color: rgb(200, 150, 150);
+    -fx-text-fill: brown;
+}

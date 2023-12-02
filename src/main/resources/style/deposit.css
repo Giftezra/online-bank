@@ -1,0 +1,23 @@
+.label {
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Arial";
+    -fx-text-fill: black;
+}
+
+.button {
+    -fx-text-fill: red;
+    -fx-background-color:green;
+    -fx-background-radius:10px;
+    -fx-border-radius: 10px;
+    -fx-border-color: white;
+    -fx-border-width: 1;
+}
+
+.text-fields {
+    -fx-pref-width: 200px;
+    -fx-pref-height: 38px;
+    -fx-border-radius: 3px;
+    -fx-border-width: 1;
+    -fx-border-color: black;
+}

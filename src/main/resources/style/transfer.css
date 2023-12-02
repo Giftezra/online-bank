@@ -1,0 +1,23 @@
+.button {
+    -fx-text-fill: gray;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Sans Serif";
+    -fx-border-radius: 10px;
+    -fx-border-color: rgb(100, 120, 90);
+    -fx-border-width: 1;
+    -fx-background-radius: 10px;
+    -fx-background-color: green;
+}
+
+.text-field {
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-border-color: black;
+    -fx-border-width: 1px;
+    -fx-pref-height: 38px;
+    -fx-pref-width: 180px;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Sans Serif";
+}
